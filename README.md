@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**ritajie/ritajie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 个人信息
+* 邮箱：`1551755561@qq.com`
+* [路小鹿](https://lulaolu.com) / 男 / 1998
+## 技能清单
+* 常用语言：`Python` `C++` `JavaScript`
+* 常用框架：`Flask` `Django`
+* 最爱工具：`VSCode`
+## 我的经历
+### 在学校（2016.8～2019.12）
+- 独立开发[腐败街](https://fubaijie.cn)（仅限前几个版本hhh）
+### 字节跳动（ 2020 年 7 月 ~ 至今）
+- 后端开发、顶尖划水运动员
+## 教育经历
+* GXJ 红星幼儿园（?～2004）
+* 哈尔滨工程大学（2016.9～2020.7）
