@@ -1,5 +1,5 @@
 ## 个人信息
-* [路小鹿](https://lulaolu.com) / 男 / 1998
+* [路小鹿](https://lulaolu.com) / ♂ / 1998
 * 邮箱：`1551755561@qq.com`
 * 工作：字节跳动，后端开发
 * 高光：独立开发[腐败街](https://fubaijie.cn)（仅限前几个版本hhh）
