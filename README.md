@@ -5,9 +5,9 @@
 * 在职工作：极狐 Gitlab，后端开发
 * 高光时刻：独立开发[腐败街](https://fubaijie.cn)（仅限前几个版本hhh）
 ## 技能清单
-* 常用语言：`Python` `Ruby`
+* 常用语言：`Python` `Ruby` `C++` `JavaScript`
 * 最爱工具：`VSCode`
-* 艺术细胞：熟悉`PhotoShop`，会点吉他
+* 艺术细胞：熟悉 `PhotoShop`，甚至用 Flash 做过动画（羞），还会点吉他
 ## 2022 愿望
 - [x] 买辆车子 🚗
 - [x] 在家办公 🏠
