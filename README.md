@@ -1,7 +1,7 @@
 ## Personal Information
 * Deer / Male / 1998
 * Email: luzhiyuan.deer@gmail.com
-* Current Job: Backend Developer at [Gitlab.cn](https://gitlab.cn)
+* Current Job: Backend Developer at [Gitlab.cn](https://gitlab.cn/en)
 * Highlight: Independently developed [Fubaijie](https://fubaijie.cn) (only the first few versions :) )
 
 ## Skills of 💻
